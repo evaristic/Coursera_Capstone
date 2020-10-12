@@ -1,0 +1,10 @@
+Data.
+
+In this project i will be using the Data-Collisions dataset, provided in this course for be analyzed. 
+The dataset is a table that contains accidents and identifies their severity, location, and a long list of attributes. I will use some
+of them to try to know where and under what circumstances they are most likely to occur.
+Through this project i will be analyzing the effects of some independents variables on the severity and frequency of the car accidents. 
+Using the tools acquired throughout these courses, I will analyze the dataset looking for to identify those things that citizens and the 
+state can do to avoid them.
+first of all i will preprocess the datset and decide which attributes are unnecessary and which i will use in this project. I will choose
+what to do with the empty cells and once this is done I will proceed to work with the data.
